@@ -1,17 +1,16 @@
 # Site settings
 title: Portfolio
 description: My Portfolio
-# baseurl: "/portfolio" # the subpath of your site, e.g. /blog
+# baseurl: "/portfolio" # the subpath of your site
 # url: "localhost:3000" # the base hostname & protocol for your site 
 
 # User settings
 username: Nerya Bigon
-user_description: Computer science and mathematics student, passionate about software development.
+user_description: Computer science and mathematics student, passionate about software development and about getting to know and understand new technologies. I have high learning skills and a will to learn as much as I can, and become better every day. I have experience with Java , Python , C/c++,  c#, OOP , Data Structures , Algorithms, Networkiing and more. 
 user_title: Software Developer
 email: neryabigon@gmail.com
-twitter_username: lorem_ipsum
 github_username:  neryabigon
-gplus_username:  lorem_ipsum
+
 
 # Google-analytics
 google-analytics:
