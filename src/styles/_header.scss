@@ -76,6 +76,7 @@
     &:hover {
       color: $main;
       background: #FFF;
+      content: attr(aria-label);
     }
     &:active {
       color: $main;
